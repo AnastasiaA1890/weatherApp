@@ -8,7 +8,7 @@ import axios from "axios";
 import Loading from "./Loading";
 import Weather from "./Weather";
 
-const API_KEY = "5e373fa3d06b96fafe8ef34fd5f4d1af";
+const API_KEY = "5da1954ad113265d1fae24e0288744a0";
 export default class App extends Component {
   state = {
     isLoading: true,
