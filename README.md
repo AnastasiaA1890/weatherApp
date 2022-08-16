@@ -15,7 +15,7 @@
 ## Description
 
 <p align="center">
-<img src="https://i.postimg.cc/BnWwwwP0/Simulator-Screen-Shot-i-Phone-13-Pro-2022-08-15-at-12-53-07.png" >
+<img src="https://i.postimg.cc/BnWwwwP0/Simulator-Screen-Shot-i-Phone-13-Pro-2022-08-15-at-12-53-07.png" height="200">
 </p>
 
 This project was implemented as React Native app for IOS and Android platforms.
@@ -36,5 +36,5 @@ How to see the app on the phone:
 * Open the camera app on your device and scan the code below
 
 <p align="center">
-<img src="https://i.postimg.cc/7h0Qxgjc/2022-08-16-10-11-57-AM.png" >
+<img src="https://i.postimg.cc/7h0Qxgjc/2022-08-16-10-11-57-AM.png" width="200">
 </p>
