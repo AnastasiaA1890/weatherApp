@@ -15,7 +15,7 @@
 ## Description
 
 <p align="center">
-<img src="https://i.postimg.cc/BnWwwwP0/Simulator-Screen-Shot-i-Phone-13-Pro-2022-08-15-at-12-53-07.png" height="200">
+<img src="https://i.postimg.cc/BnWwwwP0/Simulator-Screen-Shot-i-Phone-13-Pro-2022-08-15-at-12-53-07.png" height="400">
 </p>
 
 This project was implemented as React Native app for IOS and Android platforms.
@@ -27,7 +27,10 @@ This project was implemented as React Native app for IOS and Android platforms.
 * OOP
 
 How to use:
-* Install Expo: npm install --global expo-cli 
+* Install Expo: 
+```console
+npm install --global expo-cli 
+```
 
 ## Demo
 
